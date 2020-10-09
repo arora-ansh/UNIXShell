@@ -1,0 +1,7 @@
+echo: echo [-neE] [arg ...]
+
+    Output the ARGs.  If -n is specified, the trailing newline is
+    suppressed.
+
+    Flags -
+        -n      Doesn't call a new line after outputting the ARGs.

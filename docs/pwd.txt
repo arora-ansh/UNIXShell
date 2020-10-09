@@ -1,0 +1,8 @@
+pwd: pwd [-LP]
+    Print the current working directory.  With the -P option, pwd prints
+    the physical directory, without any symbolic links; the -L option
+    makes pwd follow symbolic links.
+
+    Flags - 
+        -L          Makes pwd show the symbolic positioning of current directory
+        -P          Makes pwd print the current directory's physical positioning

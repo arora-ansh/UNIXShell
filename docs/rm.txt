@@ -1,0 +1,6 @@
+rm: rm [OPTIONS] [ARGS]
+    Deletes the files held in ARGs.
+
+    Flags - 
+        -i      Asks for the user's permission before deleting a file.
+        -v      Informs the user of the file that is being deleted (verbose).

@@ -1,0 +1,6 @@
+cat: cat [OPTIONS] [ARGS]
+    Displays the files line by line asked for in the ARGs.
+
+    Flags - 
+        -n      Numbers the lines starting from 1
+        -e      Marks the end of a line using the $ sign

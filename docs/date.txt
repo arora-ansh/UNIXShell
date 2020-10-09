@@ -1,0 +1,6 @@
+date: date [OPTIONS]
+    Displays the present date and time.
+
+    Flags -
+        -u      Displays the present date and time according to UTC.
+        -R      Use RFC 2822 date and time output format.
