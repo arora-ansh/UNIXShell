@@ -1,0 +1,111 @@
+history
+help pwd
+exit
+pwd 
+pwd -L
+pwd -P
+pwd --help
+cd ..
+cd A1Shell
+cd ~
+cd /
+cdcd ~
+cd ~
+exit
+cd ..
+cd ..
+cd CSE231_OS
+cd -P
+cd -P A1Shell
+exit
+cd ..
+cd ..
+cd ..
+cd Documents
+cd -P c
+cd ..
+cd ..
+cd -P Desktop/CSE231_OS/A1Shell
+cd --help
+cd --help
+help cd
+exit
+help ls
+ls
+ls -A
+ls -m
+help time
+hehelp date
+help date
+date 
+date -u
+date -R
+cat Makefile
+cat -n Makefile
+cat -e Makefile
+cd ~
+cd ..
+cd ..
+cd..
+cd ..
+exit
+cd ~
+cd Documents/c
+ls
+rm hello.i
+rm -v hello.i
+rm -v hello.s
+rm -i txtfile.txt
+exit
+mkdir abc
+cd abc
+pwd
+cd ..
+mkdir -v fgh
+cd fgh
+pwd
+cd ..
+cd ..
+exit
+cd ..
+cd ~
+cd ..
+mkdir -v abc
+mkdir -v abcd
+cd abcd
+pwd
+mkdir -p ab/bc/cd
+ls
+cd ab/bc/cd
+pwd
+ls
+cd ~
+cd //
+cd /
+cd ..
+cd ..
+cd ..
+cd ..
+echo -l
+exit
+cd ..
+../..
+cd ../..
+cd ~
+cd
+cd
+cd ~
+cd
+cd
+cd ..
+cd /
+exit
+help cd
+help history
+history
+cd ..
+date
+pwd
+date -u
+rm a.out
+exit

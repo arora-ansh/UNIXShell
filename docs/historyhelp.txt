@@ -1,0 +1,7 @@
+history: history [-c] [-d offset] 
+    Display the history list with line numbers.
+
+    Flags -
+        -c          Clears the previously saved history and then displays the list.
+        -d offset   Removes the entry from history with the given offset and 
+                    displays the list.

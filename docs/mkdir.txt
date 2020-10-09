@@ -1,0 +1,12 @@
+mkdir: mkdir [OPTIONS] [ARGS]
+    Makes a directory having the name given in ARGs and default access mode
+    0777 (rwxrwxrwx).
+
+    Flags -
+        -v      Informs the user wheter a directory was created, shows an error
+                if it was unable to.
+        -p      Create intermediate directories as required.  If this option is
+                not specified, the full path prefix of each operand must already
+                exist.  On the other hand, with this option specified, no error
+                will be reported if a directory given as an operand already
+                exists.

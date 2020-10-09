@@ -1,0 +1,13 @@
+cd: cd [OPTION] [DIR]
+    Changes the current directory to given directory, displays an error 
+    if given directory does not exist.
+
+    Flags-
+        -P          Instructs the shell to use the physical directory structure instead
+                    of following symbolic links
+        --help      Displays this help page
+
+    Special Arguments-
+        ..          Takes to the directory prior to current directory
+        /           Takes to the root directory of the system (if access rights passed)
+        ~           Takes to the home directory of the system

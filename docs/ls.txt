@@ -1,0 +1,7 @@
+ls: ls [OPTIONS]
+    Displays the contents of the current directory. 
+
+    Flags - 
+        -A      Shows all contents of the directory except . and ..
+        -m      Shows all contents of the directory as seperated by commas 
+                instead of different lines.
